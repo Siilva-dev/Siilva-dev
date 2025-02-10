@@ -2,14 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo e sou natural de Palmas-TO. Concluí o ensino médio em Goiás, com o curso técnico em Eletrônica. Atualmente, estou cursando PHP. Sempre gostei de tecnologia e já concluí diversos projetos, além de realizar trabalhos como freelancer de forma contínua. Meu perfil pessoal e informativo está disponível no Instagram, no perfil chamado "[Silva_Dev](https://www.instagram.com/Silva_dev/)".
+Me chamo Gustavo, esse é meu portfólio/biblioteca. Caso tenha interesse em possibilidades de colaboração, entre em contato pelo e-mail → "[Clique aqui](mailto:siilva-dev@gmail.com)". Sou natural de Palmas-TO. Concluí o ensino médio em Goiás, com o curso técnico em Eletrônica. Atualmente, estou cursando PHP. Sempre gostei de tecnologia e já concluí diversos projetos, Além de atuar como freelancer em projetos contínuos. Meu perfil pessoal está disponível no Instagram, no perfil → "[Silva_Dev](https://www.instagram.com/Silva_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Silvadev-Develop">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQD0d_ruvff5rqBo5NCWGUA?color=%23E05D44&label=subscribers&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
          <a href="instagram.com/silva_dev">
          <img alt="Seguidores" title="Siga-me no instagram" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=833AB4&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
