@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo, esse é meu portfólio/biblioteca. Caso seja possibilidades de colaboração, entre em contato pelo e-mail → "[Clique aqui](mailto:siilva.dev@gmail.com)". Sou natural de Palmas-TO. Concluí o ensino médio em Goiás, com o curso técnico em Eletrônica. Atualmente, estou cursando PHP. Sempre gostei de tecnologia e já concluí diversos projetos, Além de atuar como freelancer em projetos contínuos. Meu perfil pessoal está disponível no Instagram, no perfil → "[Silva_Dev](https://www.instagram.com/Silva_dev/)".
+Me chamo Gustavo. Este é o meu portfólio/biblioteca pessoal.
+Para contato, utilize o e-mail → "[Clique aqui](mailto:siilva.dev@gmail.com)". Sou natural de Palmas–TO. Concluí o ensino médio em Goiás, junto ao curso técnico em Eletrônica. Atualmente, estou estudando PHP. Meu perfil pessoal no Instagram pode ser acessado pelo usuário → → "[Silva_Dev](https://www.instagram.com/Silva_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Silvadev-Develop">
