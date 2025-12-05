@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Gustavo. Este é o meu portfólio/biblioteca pessoal.
-Para contato, utilize o e-mail → "[Clique aqui](mailto:siilva.dev@gmail.com)". Sou natural de Palmas–TO. Concluí o ensino médio em Goiás, junto ao curso técnico em Eletrônica. Atualmente, estou estudando PHP. Meu perfil pessoal no Instagram pode ser acessado pelo usuário → → "[Silva_Dev](https://www.instagram.com/Silva_dev/)".
+Para contato, utilize o e-mail → "[Clique aqui](mailto:siilva.dev@gmail.com)". Sou natural de Palmas–TO. Concluí o ensino médio em Goiás, junto ao curso técnico em Eletrônica. Atualmente, estou estudando PHP. Meu perfil pessoal no Instagram pode ser acessado pelo usuário → "[Silva_Dev](https://www.instagram.com/Silva_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Silvadev-Develop">
@@ -135,11 +135,10 @@ Para contato, utilize o e-mail → "[Clique aqui](mailto:siilva.dev@gmail.com)".
     src="https://github-readme-stats.vercel.app/api?username=Siilva-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siilva-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
